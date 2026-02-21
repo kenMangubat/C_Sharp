@@ -1,0 +1,14 @@
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\loop.AssemblyInfoInputs.cache
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\loop.AssemblyInfo.cs
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\loop.csproj.CoreCompileInputs.cache
+D:\VisualStudio\c#\loop\loop\bin\Debug\net10.0\loop.exe
+D:\VisualStudio\c#\loop\loop\bin\Debug\net10.0\loop.deps.json
+D:\VisualStudio\c#\loop\loop\bin\Debug\net10.0\loop.runtimeconfig.json
+D:\VisualStudio\c#\loop\loop\bin\Debug\net10.0\loop.dll
+D:\VisualStudio\c#\loop\loop\bin\Debug\net10.0\loop.pdb
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\loop.dll
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\refint\loop.dll
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\loop.pdb
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\loop.genruntimeconfig.cache
+D:\VisualStudio\c#\loop\loop\obj\Debug\net10.0\ref\loop.dll
