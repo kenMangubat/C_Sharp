@@ -1,0 +1,4 @@
+D:\VisualStudio\c#\basicAlgorithm\basicAlgorithm\obj\Debug\net10.0\basicAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\c#\basicAlgorithm\basicAlgorithm\obj\Debug\net10.0\basicAlgorithm.AssemblyInfoInputs.cache
+D:\VisualStudio\c#\basicAlgorithm\basicAlgorithm\obj\Debug\net10.0\basicAlgorithm.AssemblyInfo.cs
+D:\VisualStudio\c#\basicAlgorithm\basicAlgorithm\obj\Debug\net10.0\basicAlgorithm.csproj.CoreCompileInputs.cache
